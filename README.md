@@ -1,2 +1,2 @@
 # trush23.github.io
-Education and Learning resources for Math, Data Science, and STEM careers
+Resources for lifelong learners in Math, Data Science, and STEM fileds.
