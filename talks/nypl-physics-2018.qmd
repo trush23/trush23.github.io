@@ -1,0 +1,24 @@
+---
+title: "The Physics of Everyday Things"
+date: 2018-02-02
+categories: [Public Lecture, New York Public Library]
+description: "A series of five lectures on the physics of everyday materials all around us like sand, soap, shampoo, ketchup, toothpaste. What makes them so different from each other in some ways and yet they show similar behavior in some other ways."
+
+---
+
+## Abstract
+
+When we think of the world of physics, we usually think either very big, like stars and galaxies, or very small like atoms and molecules. But our everyday experience typically is of things that are somewhere in-between in scale. Think of most objects that we deal with on a daily basis - glassware and salt and pepper, soaps, shampoos, toothpaste, ketchup, etc.. The physics of these kinds of objects and materials is in fact an active area of research and is classified as “soft matter physics”.
+
+In this series, we will explore the physics behind a few of these materials.
+
+First, we will see that a simple and ubiquitous material like sand is in fact very complicated and can exhibit puzzling behavior. Sand or anything that is “grainy” (think of nuts and grains in those mini-silos in your supermarket) can show behavior that is solid-like (will stay as is if not disturbed), liquid-like (can be poured) or gas-like (think of sand storms). Physics of grainy materials in each of these states is unique and we will see why they behave the way they do and also why it is important to study such systems (from efficient storage to making the Mars Rover move on Martian sand efficiently).
+
+Next we will explore the world of strange “liquids”. We know what we mean when we think of liquids - things that are like water, can be poured, if poured, it flows away etc. But how about mayonnaise, ketchup, or even toothpaste? Should they be considered liquids? Or are they somewhere between solids and liquids. These kinds of unusual fluids, where a simple liquid is mixed-in with some other “stuff” are known as “complex fluids”. It is this mix of different things in them that gives rise to unusual properties they show. [cite_start]We will see what those properties are and how to understand their behavior.
+
+Finally, we will explore the emerging field of creating new materials and artificial machines inspired by nature. For example, what allows a gecko to crawl vertically up? How do we make super light and yet super strong material like spider silk. Can we create tiny nano-bots that can be programmed and injected in our body to perform repairs to injuries and heal diseases? [cite_start]We will explore cutting edge research on many such new inventions.
+
+## Event Details
+
+**Location:** Jefferson Branch, Manhattan
+**Audience:** All ages.

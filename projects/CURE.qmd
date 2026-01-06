@@ -1,0 +1,19 @@
+---
+title: "Course-Based Undergraduate Research Framework (CURE)"
+page-layout: full
+date: 2026-01-20
+categories: [Pedagogy, Curriculum Development, Undergraduate Research]
+#description: "Restructuring Linear Algebra: Applications and Coding Component"
+image: false #lapic2.png
+---
+
+## Project Overview
+
+Starting Fall 2025, as a part of the working group headed by Prof. Rohini Qamra, I learned about the CURE framework and discussed ways to implement it in math courses. It is a challenging proposition to incorporate full CURE framework for a typical math course with 120 students. In Fall, I did a soft version in Linear Algebra with Applications via coding projects at the end of the semester. In Spring 20206, I plan to implement a similar project-based learning in both of the Core classes I am teaching: From data To Discovery and Great Ideas In Mathematics. 
+
+
+### Key Objectives
+* Incorporate Reserach component in traditional courses.
+* Encourage curiosity, exploration, and understanding.
+* Give students a taste of what research is like.
+* Build skills like critical thinking, teamwork, and research mindset.  

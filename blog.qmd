@@ -1,0 +1,11 @@
+---
+title: "Blog"
+page-layout: full
+links:
+   - icon: substack
+     text: Substack @trush23
+     href: https://trushphysicsai.substack.com/
+---
+
+My blog is on Substack. I write about the influence of Physics in Deep Learning and AI, History of Physics, and Math Education. The blog is hosted on Substack. I will also post the articles here. 
+      

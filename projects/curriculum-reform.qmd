@@ -1,0 +1,20 @@
+---
+title: "Restructuring Linear Algebra"
+page-layout: full
+date: 2025-09-01
+categories: [Pedagogy, Curriculum Development]
+#description: "Restructuring Linear Algebra: Applications and Coding Component"
+image: false #lapic2.png
+---
+
+## Project Overview
+
+Traditional way of teaching Linear Algebra, at most colleges, follows covering certain foundational material from standard textbooks like those by Strang or Lay. While this approach has been the mainstay of undergraduate curriculum, it no longer serves for the benefit of the large number of majors who are opting to learn Linear Algebra for multiple reasons. For one, the traditional approach leans too much towards theoretical aspects and secondly, in this day and age, it makes more sense to give students a glimpse of its foundational role in data science, machine learning, and applications in general.
+
+In the summer 2024, together with a working group of fellow faculty members, I proposed my plan of restructuring Linear Algebra by making it **more applied** and including **Python coding component** for the course. We implemented the new version starting Fall 2025. In the last three semesters, it has been a resounding success! The students love the restructured course and the enrollments have significantly increased with each semster.
+
+
+### Key Objectives
+* Open-source online textbook: Interactive Linear Algebra
+* Use a library of open-source Python notebooks: Jupyter Guide to Linear Algebra
+* Applications based Final Project with Jupyter Notebooks: Pagerank, Curve Fitting, SVD image compression, Dynamical Systems, Differential Equations, Markov Processes, etc.

@@ -1,0 +1,34 @@
+---
+title: "Teaching Activities"
+page-layout: article
+listing:
+  contents: courses
+  sort: "date desc"
+  type: table
+  categories: true
+  fields: [date, title, description]
+---
+
+## Courses
+Below is a list of courses I have taught over the years: 
+
+* Math Courses Taught and Coordinated: 
+  + Pre-Calculus
+  + Calculus I, II, and III 
+  + Math for Economics I, II, and III 
+  + Discrete Mathematics 
+  + Linear Algebra 
+   
+
+* Quantitative Reasoning Courses: 
+  + From Data to Discovery (FTDT)
+  + Probability, Statistics, and Decision Making (PSDM) 
+  + Great Ideas in Mathematics (GIM)
+
+* Masters Level Course: Mathematical Statistics
+
+## Courses in Spring 2026
+* Linear Algebra
+* Great Ideas in Mathematics
+* From Data To Discovery
+

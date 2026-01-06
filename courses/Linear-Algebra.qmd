@@ -1,0 +1,12 @@
+---
+title: "Linear Algebra"
+description: "Fundamentals of Linear Algebra with emphasis on Applications."
+date: 2026-01-20
+categories: [Undergrad, Linear Algebra]
+---
+
+## Course Materials
+
+* [Syllabus (PDF)](link-to-syllabus)
+* [Lecture Notes](link-to-notes)
+

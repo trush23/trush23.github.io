@@ -1,0 +1,34 @@
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Leanrning Math, Physics, and AI"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Ed. Projects"       
+        href: projects.qmd     
+      - text: "Outreach"       
+        href: outreach.qmd 
+      - text: "Talks"       
+        href: talks.qmd     
+      - text: "Research"
+        href: research.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: envelope
+        href: mailto:tsm4@nyu.edu
+
+format:
+  html:
+    theme: litera   # Options: cosmo, litera, flatly, journal, minimal
+    css: styles.css
+    toc: true
+    html-math-method: mathjax

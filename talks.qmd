@@ -1,0 +1,17 @@
+---
+title: "Talks"
+page-layout: article
+listing:
+  contents: talks
+  type: grid           # <--- Switches from simple list to "Card/Box" mode
+  grid-columns: 1      # <--- Forces the box to be wide (full width)
+  grid-item-border: true
+  sort: "date desc"
+  categories: true
+  #image: false         # <--- Important! Hides the "grey box" since you don't have photos
+  fields: [date, title, description, categories]
+  filter-ui: false
+  sort-ui: false
+---
+
+The following are Public Lecture Series I gave at the New york Public Library, Jeffereson Branch. 

@@ -1,0 +1,85 @@
+/* --- 1. Typography Upgrade (Math Paper Look) --- */
+
+/* Import Google Fonts: 'Lora' (Serif, like TeX) and 'Inter' (Clean Sans) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* Apply Serif font to the main text for readability */
+body {
+  font-family: 'Lora', serif;
+  font-size: 1.1em; /* Slightly larger for easier reading */
+  line-height: 1.6; /* Breathing room for inline math */
+  color: #222;      /* Soft black is easier on eyes than pure black */
+}
+
+/* Apply Clean Sans-Serif to headers and navigation */
+h1, h2, h3, h4, h5, h6, .navbar, .nav-link {
+  font-family: 'Inter', sans-serif;
+  font-weight: 650;
+}
+
+/* Make links your "University Color" */
+a {
+  color: #5c0596; /* Official NYU Violet 57068*/
+  text-decoration: none;
+}
+
+a:hover {
+  color: #59098e; /* Darker Violet for hover effect 330350*/
+  text-decoration: underline;
+}
+
+/* --- 2. Layout Fix (Wider Bio, Narrower Sidebar) --- */
+
+@media (min-width: 998px) {
+  /* The Left Column (Image & Links) */
+  .quarto-about-trestles .about-entity {
+    flex-basis: 22%;  /* Narrower sidebar */
+    max-width: 22%;
+  }
+
+  /* The Right Column (Bio & Text) */
+  .quarto-about-trestles .about-contents {
+    flex-basis: 85%;  /* Wider content area */
+    max-width: 85%;
+  }
+}
+
+/* --- 3. Sidebar Title Size Fix --- */
+
+/* Targets the specific H1 inside the "About" sidebar */
+.about-entity h1 {
+  font-size: 1.5rem; /* Reduced from default ~2.5rem */
+  line-height: 1.2;
+  margin-bottom: 15px;
+  font-weight: 700;  /* Bold it slightly to compensate for smaller size */
+}
+
+card-img-top {
+  height: 2px;       /* <--- CHANGE THIS NUMBER */
+  width: 100%;
+  object-fit: cover;
+}
+
+/* --- Widen the Page Layout --- */
+
+/* Increase the maximum width of the main content area */
+/* The default is usually around 900px-1000px. */
+.quarto-container {
+  max-width: 1250px;   /* Try 1200px or 1400px */
+}
+
+/* Ensure the navbar content also stretches to match */
+.navbar .container-xxl {
+    max-width: 1250px;
+}
+
+/* --- Adjust the Right Sidebar (Table of Contents) --- */
+
+#quarto-margin-sidebar {
+  padding-left: 95px;   /* Increases the gap. Default is much smaller. */
+}
+
+/* Optional: If you want to move the "On this page" text specifically */
+#TOC {
+  margin-left: 10px;    /* Nudges the text a bit more if needed */
+}

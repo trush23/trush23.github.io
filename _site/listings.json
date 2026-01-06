@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/courses/Linear-Algebra.html",
+      "/courses/FDTD.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/CURE.html",
+      "/projects/Gen_AI_Tutor.html",
+      "/projects/curriculum-reform.html"
+    ]
+  },
+  {
+    "listing": "/outreach.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/nypl-physics-2018.html",
+      "/talks/nypl-patterns-2017.html"
+    ]
+  }
+]

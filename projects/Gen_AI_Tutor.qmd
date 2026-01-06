@@ -1,0 +1,18 @@
+---
+title: "Custom Gen AI Tutor for Linear Algebra"
+page-layout: full
+date: 2025-09-01
+categories: [Pedagogy, Curriculum Development, AI]
+#description: "Restructuring Linear Algebra: Applications and Coding Component"
+image: false #lapic2.png
+---
+
+## Project Overview
+
+In Fall 2025, together with the office of Strategic Initiatives and Planning at NYU IT, we initiated a pilot program to incorporate Gen. AI Tutor trained on the textbook and other course-related documents, for one section of Linear Algebra. The tutor is designed to give only hints and suggestions and never the full answers right away. It guides the students towards solutions, which effectively improves their understanding of the material. Analysis of the data collected from that semester is underway and will be used to refine the Tutor for the upcoming Spring 2026 semester. 
+
+
+### Key Objectives
+* Create a Personalized Course Tutor.
+* Guided and focused study help based on the course content.
+* Help with traditional assessment categories as well as coding. 

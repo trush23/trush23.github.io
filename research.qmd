@@ -1,0 +1,12 @@
+---
+title: "Research Interests"
+page-layout: article
+---
+
+## Past and Current Research
+
+My primary area is soft matter physics. In particular, I have worked on granular physics, complex fluids, and fluid-structure interactions in the swimming locomotion of *C. elegans*. 
+
+**Recently, I have been exploring problems at the intersection of Math, Physics, and Deep Learning. My primary motivation for research is to use it as a teaching tool to introduce undergrads and high school students to critical thinking, research methods, systematic exploration, and science communication.**
+
+More on all of this in a bit...
