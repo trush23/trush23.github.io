@@ -23,8 +23,10 @@ website:
         href: blog.qmd
       - icon: github
         href: https://github.com/
+        target: _blank
       - icon: envelope
         href: mailto:tsm4@nyu.edu
+        target: _blank
 
 format:
   html:
