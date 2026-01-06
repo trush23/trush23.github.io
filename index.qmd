@@ -12,12 +12,15 @@ about:
     - icon: substack
       text: Substack @trush23
       href: https://trushphysicsai.substack.com/
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com//in/trush-majmudar-03409a13/
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com/trush23
+      target: _blank
 ---
 
 ## Bio
