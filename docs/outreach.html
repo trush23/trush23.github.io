@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -179,12 +179,12 @@ window.Quarto = {
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:tsm4@nyu.edu"> <i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:tsm4@nyu.edu" target="_blank"> <i class="bi bi-envelope" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -201,7 +201,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFNjaWVuY2U=">Data Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SGlnaCUyMFNjaG9vbCUyMFJlc2VhcmNo">High School Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3V0cmVhY2g=">Outreach <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -244,7 +244,33 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-1">
+<div class="g-col-1" data-index="0" data-categories="T3V0cmVhY2glMkNIaWdoJTIwU2Nob29sJTIwUmVzZWFyY2glMkNEYXRhJTIwU2NpZW5jZQ==" data-listing-date-sort="1748750400000" data-listing-file-modified-sort="1767743588426" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./outreach/pioneer.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pioneer Academy
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('T3V0cmVhY2g='); return false;">Outreach</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SGlnaCUyMFNjaG9vbCUyMFJlc2VhcmNo'); return false;">High School Research</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFNjaWVuY2U='); return false;">Data Science</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Two months of summer school for six students, teaching Deep Learning and AI, and six individual research projects.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 1, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

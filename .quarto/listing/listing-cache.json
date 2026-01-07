@@ -1,0 +1,16 @@
+{
+  "listingMap": {
+    "teaching.qmd": [
+      "courses"
+    ],
+    "talks.qmd": [
+      "talks"
+    ],
+    "projects.qmd": [
+      "projects"
+    ],
+    "outreach.qmd": [
+      "outreach"
+    ]
+  }
+}

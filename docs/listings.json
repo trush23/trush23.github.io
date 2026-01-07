@@ -1,9 +1,8 @@
 [
   {
-    "listing": "/teaching.html",
+    "listing": "/outreach.html",
     "items": [
-      "/courses/Linear-Algebra.html",
-      "/courses/FDTD.html"
+      "/outreach/pioneer.html"
     ]
   },
   {
@@ -15,14 +14,17 @@
     ]
   },
   {
-    "listing": "/outreach.html",
-    "items": []
-  },
-  {
     "listing": "/talks.html",
     "items": [
       "/talks/nypl-physics-2018.html",
       "/talks/nypl-patterns-2017.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/courses/Linear-Algebra.html",
+      "/courses/FDTD.html"
     ]
   }
 ]
