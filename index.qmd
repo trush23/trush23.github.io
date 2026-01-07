@@ -23,6 +23,7 @@ about:
       target: _blank
 ---
 
+[This site is under construction. Some sections may be blank. Please be patient.]{style="color: red;"}
 ## Bio
 
 I am a Clinical Associate Professor of Mathematics at the Courant Institute, New York University. "Clinical" is our designation for Teaching Track faculty. I have been teaching here since 2011 and have taught close to 8000 students. My primary job is teaching and coordinating undergraduate courses, and training new instructors and teaching assistants. I teach three undergraduate courses per semester (usually fairly large classes). I also do a lot of outreach for high school students, locally, nationally, and internationally. My longtime passion project is to encourage undergrads and high school students in research. I also try to include a short research component in my courses through projects. I am passionate about open-source education and modernizing the mathematics curriculum. 
