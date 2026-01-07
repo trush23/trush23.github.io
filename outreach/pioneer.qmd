@@ -1,8 +1,0 @@
----
-title: "Pioneer Academy"
-page-layout: full
-date: 2025-06-01
-categories: [Outreach, High School Research, Data Science]
-description: "Two months of summer school for six students, teaching Deep Learning and AI, and six individual research projects."
-image: false #lapic2.png
----

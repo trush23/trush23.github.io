@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "talks/nypl-physics-2018.html",
+    "href": "talks/nypl-physics-2018.html",
+    "title": "The Physics of Everyday Things",
+    "section": "",
+    "text": "When we think of the world of physics, we usually think either very big, like stars and galaxies, or very small like atoms and molecules. But our everyday experience typically is of things that are somewhere in-between in scale. Think of most objects that we deal with on a daily basis - glassware and salt and pepper, soaps, shampoos, toothpaste, ketchup, etc.. The physics of these kinds of objects and materials is in fact an active area of research and is classified as “soft matter physics”.\nIn this series, we will explore the physics behind a few of these materials.\nFirst, we will see that a simple and ubiquitous material like sand is in fact very complicated and can exhibit puzzling behavior. Sand or anything that is “grainy” (think of nuts and grains in those mini-silos in your supermarket) can show behavior that is solid-like (will stay as is if not disturbed), liquid-like (can be poured) or gas-like (think of sand storms). Physics of grainy materials in each of these states is unique and we will see why they behave the way they do and also why it is important to study such systems (from efficient storage to making the Mars Rover move on Martian sand efficiently).\nNext we will explore the world of strange “liquids”. We know what we mean when we think of liquids - things that are like water, can be poured, if poured, it flows away etc. But how about mayonnaise, ketchup, or even toothpaste? Should they be considered liquids? Or are they somewhere between solids and liquids. These kinds of unusual fluids, where a simple liquid is mixed-in with some other “stuff” are known as “complex fluids”. It is this mix of different things in them that gives rise to unusual properties they show. [cite_start]We will see what those properties are and how to understand their behavior.\nFinally, we will explore the emerging field of creating new materials and artificial machines inspired by nature. For example, what allows a gecko to crawl vertically up? How do we make super light and yet super strong material like spider silk. Can we create tiny nano-bots that can be programmed and injected in our body to perform repairs to injuries and heal diseases? [cite_start]We will explore cutting edge research on many such new inventions."
+  },
+  {
+    "objectID": "talks/nypl-physics-2018.html#abstract",
+    "href": "talks/nypl-physics-2018.html#abstract",
+    "title": "The Physics of Everyday Things",
+    "section": "",
+    "text": "When we think of the world of physics, we usually think either very big, like stars and galaxies, or very small like atoms and molecules. But our everyday experience typically is of things that are somewhere in-between in scale. Think of most objects that we deal with on a daily basis - glassware and salt and pepper, soaps, shampoos, toothpaste, ketchup, etc.. The physics of these kinds of objects and materials is in fact an active area of research and is classified as “soft matter physics”.\nIn this series, we will explore the physics behind a few of these materials.\nFirst, we will see that a simple and ubiquitous material like sand is in fact very complicated and can exhibit puzzling behavior. Sand or anything that is “grainy” (think of nuts and grains in those mini-silos in your supermarket) can show behavior that is solid-like (will stay as is if not disturbed), liquid-like (can be poured) or gas-like (think of sand storms). Physics of grainy materials in each of these states is unique and we will see why they behave the way they do and also why it is important to study such systems (from efficient storage to making the Mars Rover move on Martian sand efficiently).\nNext we will explore the world of strange “liquids”. We know what we mean when we think of liquids - things that are like water, can be poured, if poured, it flows away etc. But how about mayonnaise, ketchup, or even toothpaste? Should they be considered liquids? Or are they somewhere between solids and liquids. These kinds of unusual fluids, where a simple liquid is mixed-in with some other “stuff” are known as “complex fluids”. It is this mix of different things in them that gives rise to unusual properties they show. [cite_start]We will see what those properties are and how to understand their behavior.\nFinally, we will explore the emerging field of creating new materials and artificial machines inspired by nature. For example, what allows a gecko to crawl vertically up? How do we make super light and yet super strong material like spider silk. Can we create tiny nano-bots that can be programmed and injected in our body to perform repairs to injuries and heal diseases? [cite_start]We will explore cutting edge research on many such new inventions."
+  },
+  {
+    "objectID": "talks/nypl-physics-2018.html#event-details",
+    "href": "talks/nypl-physics-2018.html#event-details",
+    "title": "The Physics of Everyday Things",
+    "section": "Event Details",
+    "text": "Event Details\nLocation: Jefferson Branch, Manhattan Audience: All ages."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Education Projects",
+    "section": "",
+    "text": "Here are the major educational initiatives I am currently leading or participating in.\n\n\n\n\n\n\n\n\n\n\n\n\nCourse-Based Undergraduate Research Framework (CURE)\n\n\n\nPedagogy\n\nCurriculum Development\n\nUndergraduate Research\n\n\n\n\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\nRestructuring Linear Algebra\n\n\n\nPedagogy\n\nCurriculum Development\n\n\n\n\n\n\n\nSep 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCustom Gen AI Tutor for Linear Algebra\n\n\n\nPedagogy\n\nCurriculum Development\n\nAI\n\n\n\n\n\n\n\nSep 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses/Linear-Algebra.html",
+    "href": "courses/Linear-Algebra.html",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "Syllabus (PDF)\nLecture Notes"
+  },
+  {
+    "objectID": "courses/Linear-Algebra.html#course-materials",
+    "href": "courses/Linear-Algebra.html#course-materials",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "Syllabus (PDF)\nLecture Notes"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My blog is on Substack. I write about the influence of Physics in Deep Learning and AI, History of Physics, and Math Education. The blog is hosted on Substack. I will also post the articles here."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Activities",
+    "section": "",
+    "text": "Below is a list of courses I have taught over the years:\n\nMath Courses Taught and Coordinated:\n\nPre-Calculus\nCalculus I, II, and III\nMath for Economics I, II, and III\nDiscrete Mathematics\nLinear Algebra\n\nQuantitative Reasoning Courses:\n\nFrom Data to Discovery (FTDT)\nProbability, Statistics, and Decision Making (PSDM)\nGreat Ideas in Mathematics (GIM)\n\nMasters Level Course: Mathematical Statistics"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching Activities",
+    "section": "",
+    "text": "Below is a list of courses I have taught over the years:\n\nMath Courses Taught and Coordinated:\n\nPre-Calculus\nCalculus I, II, and III\nMath for Economics I, II, and III\nDiscrete Mathematics\nLinear Algebra\n\nQuantitative Reasoning Courses:\n\nFrom Data to Discovery (FTDT)\nProbability, Statistics, and Decision Making (PSDM)\nGreat Ideas in Mathematics (GIM)\n\nMasters Level Course: Mathematical Statistics"
+  },
+  {
+    "objectID": "teaching.html#courses-in-spring-2026",
+    "href": "teaching.html#courses-in-spring-2026",
+    "title": "Teaching Activities",
+    "section": "Courses in Spring 2026",
+    "text": "Courses in Spring 2026\n\nLinear Algebra\nGreat Ideas in Mathematics\nFrom Data To Discovery"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clinical Associate Professor of Mathematics",
+    "section": "",
+    "text": "I am a Clinical Associate Professor of Mathematics at the Courant Institute, New York University. “Clinical” is our designation for Teaching Track faculty. I have been teaching here since 2011 and have taught close to 8000 students. My primary job is teaching and coordinating undergraduate courses, and training new instructors and teaching assistants. I teach three undergraduate courses per semester (usually fairly large classes). I also do a lot of outreach for high school students, locally, nationally, and internationally. My longtime passion project is to encourage undergrads and high school students in research. I also try to include a short research component in my courses through projects. I am passionate about open-source education and modernizing the mathematics curriculum.\nMy research has spanned a number of different fields over the years. My background is in Physics, where I have worked on grvitational waves, pattern formation in nonlinear systems, Bose-Einstein condensation, granular physics, complex fluids, and locomotion of micro-organisms. Recently, I have been interested in the intersection of physics, math, and deep learning. I like to take up small projects, suitable for undergraduates, to investigate deep learning methods and their foundations."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Clinical Associate Professor of Mathematics",
+    "section": "",
+    "text": "I am a Clinical Associate Professor of Mathematics at the Courant Institute, New York University. “Clinical” is our designation for Teaching Track faculty. I have been teaching here since 2011 and have taught close to 8000 students. My primary job is teaching and coordinating undergraduate courses, and training new instructors and teaching assistants. I teach three undergraduate courses per semester (usually fairly large classes). I also do a lot of outreach for high school students, locally, nationally, and internationally. My longtime passion project is to encourage undergrads and high school students in research. I also try to include a short research component in my courses through projects. I am passionate about open-source education and modernizing the mathematics curriculum.\nMy research has spanned a number of different fields over the years. My background is in Physics, where I have worked on grvitational waves, pattern formation in nonlinear systems, Bose-Einstein condensation, granular physics, complex fluids, and locomotion of micro-organisms. Recently, I have been interested in the intersection of physics, math, and deep learning. I like to take up small projects, suitable for undergraduates, to investigate deep learning methods and their foundations."
+  },
+  {
+    "objectID": "index.html#education-and-certifications",
+    "href": "index.html#education-and-certifications",
+    "title": "Clinical Associate Professor of Mathematics",
+    "section": "Education and Certifications",
+    "text": "Education and Certifications\nPh.D. in Physics** | Duke University | 2006\nM.SC. in Physics** | University of Pune | 1995\nB.Sc. in Physics** | University of Mumbai| 1993\nCertification: Applied Data Science (Leveraging AI for Decision Making)| MIT Professional Education | 2023\nCertification: Data Science and AI Educators’ Program| Alan Turing Institute, UK | 2023"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Clinical Associate Professor of Mathematics",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nNew York University, Department of Mathematics\nClinical Associate Professor | Sept 2024 – Present\nClinical Assistant Professor | Sept 2012 – Sept 2024\nVisiting Assistant Professor | Sept 2011 – Sept 2012\nCourant Instructor / Post-doctoral Scientist | Sept 2009 – Sept 2011\nMassachusetts Institute of Technology (MIT)\nPost-doctoral Research Fellow, Mechanical Engineering | 2006 – 2009"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Clinical Associate Professor of Mathematics",
+    "section": "News",
+    "text": "News\n\nJan 2026: I will be teaching Linear Algebra, and two Core classes: From Data To Discovery and Great Ideas In Mathematics."
+  },
+  {
+    "objectID": "projects/Gen_AI_Tutor.html",
+    "href": "projects/Gen_AI_Tutor.html",
+    "title": "Custom Gen AI Tutor for Linear Algebra",
+    "section": "",
+    "text": "In Fall 2025, together with the office of Strategic Initiatives and Planning at NYU IT, we initiated a pilot program to incorporate Gen. AI Tutor trained on the textbook and other course-related documents, for one section of Linear Algebra. The tutor is designed to give only hints and suggestions and never the full answers right away. It guides the students towards solutions, which effectively improves their understanding of the material. Analysis of the data collected from that semester is underway and will be used to refine the Tutor for the upcoming Spring 2026 semester.\n\n\n\nCreate a Personalized Course Tutor.\nGuided and focused study help based on the course content.\nHelp with traditional assessment categories as well as coding."
+  },
+  {
+    "objectID": "projects/Gen_AI_Tutor.html#project-overview",
+    "href": "projects/Gen_AI_Tutor.html#project-overview",
+    "title": "Custom Gen AI Tutor for Linear Algebra",
+    "section": "",
+    "text": "In Fall 2025, together with the office of Strategic Initiatives and Planning at NYU IT, we initiated a pilot program to incorporate Gen. AI Tutor trained on the textbook and other course-related documents, for one section of Linear Algebra. The tutor is designed to give only hints and suggestions and never the full answers right away. It guides the students towards solutions, which effectively improves their understanding of the material. Analysis of the data collected from that semester is underway and will be used to refine the Tutor for the upcoming Spring 2026 semester.\n\n\n\nCreate a Personalized Course Tutor.\nGuided and focused study help based on the course content.\nHelp with traditional assessment categories as well as coding."
+  },
+  {
+    "objectID": "projects/curriculum-reform.html",
+    "href": "projects/curriculum-reform.html",
+    "title": "Restructuring Linear Algebra",
+    "section": "",
+    "text": "Traditional way of teaching Linear Algebra, at most colleges, follows covering certain foundational material from standard textbooks like those by Strang or Lay. While this approach has been the mainstay of undergraduate curriculum, it no longer serves for the benefit of the large number of majors who are opting to learn Linear Algebra for multiple reasons. For one, the traditional approach leans too much towards theoretical aspects and secondly, in this day and age, it makes more sense to give students a glimpse of its foundational role in data science, machine learning, and applications in general.\nIn the summer 2024, together with a working group of fellow faculty members, I proposed my plan of restructuring Linear Algebra by making it more applied and including Python coding component for the course. We implemented the new version starting Fall 2025. In the last three semesters, it has been a resounding success! The students love the restructured course and the enrollments have significantly increased with each semster.\n\n\n\nOpen-source online textbook: Interactive Linear Algebra\nUse a library of open-source Python notebooks: Jupyter Guide to Linear Algebra\nApplications based Final Project with Jupyter Notebooks: Pagerank, Curve Fitting, SVD image compression, Dynamical Systems, Differential Equations, Markov Processes, etc."
+  },
+  {
+    "objectID": "projects/curriculum-reform.html#project-overview",
+    "href": "projects/curriculum-reform.html#project-overview",
+    "title": "Restructuring Linear Algebra",
+    "section": "",
+    "text": "Traditional way of teaching Linear Algebra, at most colleges, follows covering certain foundational material from standard textbooks like those by Strang or Lay. While this approach has been the mainstay of undergraduate curriculum, it no longer serves for the benefit of the large number of majors who are opting to learn Linear Algebra for multiple reasons. For one, the traditional approach leans too much towards theoretical aspects and secondly, in this day and age, it makes more sense to give students a glimpse of its foundational role in data science, machine learning, and applications in general.\nIn the summer 2024, together with a working group of fellow faculty members, I proposed my plan of restructuring Linear Algebra by making it more applied and including Python coding component for the course. We implemented the new version starting Fall 2025. In the last three semesters, it has been a resounding success! The students love the restructured course and the enrollments have significantly increased with each semster.\n\n\n\nOpen-source online textbook: Interactive Linear Algebra\nUse a library of open-source Python notebooks: Jupyter Guide to Linear Algebra\nApplications based Final Project with Jupyter Notebooks: Pagerank, Curve Fitting, SVD image compression, Dynamical Systems, Differential Equations, Markov Processes, etc."
+  },
+  {
+    "objectID": "projects/CURE.html",
+    "href": "projects/CURE.html",
+    "title": "Course-Based Undergraduate Research Framework (CURE)",
+    "section": "",
+    "text": "Starting Fall 2025, as a part of the working group headed by Prof. Rohini Qamra, I learned about the CURE framework and discussed ways to implement it in math courses. It is a challenging proposition to incorporate full CURE framework for a typical math course with 120 students. In Fall, I did a soft version in Linear Algebra with Applications via coding projects at the end of the semester. In Spring 20206, I plan to implement a similar project-based learning in both of the Core classes I am teaching: From data To Discovery and Great Ideas In Mathematics.\n\n\n\nIncorporate Reserach component in traditional courses.\nEncourage curiosity, exploration, and understanding.\nGive students a taste of what research is like.\nBuild skills like critical thinking, teamwork, and research mindset."
+  },
+  {
+    "objectID": "projects/CURE.html#project-overview",
+    "href": "projects/CURE.html#project-overview",
+    "title": "Course-Based Undergraduate Research Framework (CURE)",
+    "section": "",
+    "text": "Starting Fall 2025, as a part of the working group headed by Prof. Rohini Qamra, I learned about the CURE framework and discussed ways to implement it in math courses. It is a challenging proposition to incorporate full CURE framework for a typical math course with 120 students. In Fall, I did a soft version in Linear Algebra with Applications via coding projects at the end of the semester. In Spring 20206, I plan to implement a similar project-based learning in both of the Core classes I am teaching: From data To Discovery and Great Ideas In Mathematics.\n\n\n\nIncorporate Reserach component in traditional courses.\nEncourage curiosity, exploration, and understanding.\nGive students a taste of what research is like.\nBuild skills like critical thinking, teamwork, and research mindset."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "I regularly give talks at high school, create research projects with high school students, and lead math events for the local community. I also give public lectures at the New York Public Library, collaborate as a mentor with New York Academy of Sciences, Pioneer Academy, and Center for Mathematical Talent. Several high school students I have done research projects with, have been semi finalists in the INTEL Science Competition.\n\nArchaeoHack (2025): Mentor and judge for the inaugural ArchaeoHack 2025. The topic was to create an app that recognizes Egyptian Hieroglyphs as images or sketched by hand.\nCSPLASH (2021 onwards): Organized annual day-long event for highschool students; talks by faculty, lab visits, and games.\nGirls in STEM (GSTEM): A Courant Institute Summer research program for female high school students in the US. Participated as research mentor in 2013, 2014, 2015, 2016.\nNew York Public Library (NYPL): Gave two lecture series (5 lectures each) at the Jefferson Branch. (Spring 2016) Mathematical Patterns In Nature, (Fall 2016) Physics of Everyday Things.\nNew York Academy of Sciences (NYAS) 2017-2021:\n\nGlobal Science Academy: As a research mentor, I mentored research team composed of high school students around the world on research projects (online).\nScientist-In-Residence: Mentored 7th and 8th grade classes in New York Public Schools on research projects for one semester. PS-181 in Fall 2017 and PS-151 in Fall 2018\n\nNYU-ABU DHABI: Mentoring and teaching talented Emerati high school students in Abu Dhabi (Summer 2017)\nCenter for Mathematical Talent: Lecture Series on Graph Theory for talented high school students (2016, 2018, 2020, 2022)\n\n\n\n\n\n\n\n\n\n\n\n\nPioneer Academy\n\n\n\nOutreach\n\nHigh School Research\n\nData Science\n\n\n\nTwo months of summer school for six students, teaching Deep Learning and AI, and six individual research projects.\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "The following are Public Lecture Series I gave at the New york Public Library, Jeffereson Branch.\n\n\n\n\n\n\n\n\n\n\n\nThe Physics of Everyday Things\n\n\n\nPublic Lecture\n\nNew York Public Library\n\n\n\nA series of five lectures on the physics of everyday materials all around us like sand, soap, shampoo, ketchup, toothpaste. What makes them so different from each other in…\n\n\n\nFeb 2, 2018\n\n\n\n\n\n\n\n\n\n\nMathematical Patterns in Nature\n\n\n\nPublic Lecture\n\nNew York Public Library\n\n\n\nA lecture course (5 lectures) given at the New York Public Library, Jefferson Branch, about mathematical patterns that naturally emerge in nature, from arrangement of petals…\n\n\n\nSep 2, 2017\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses/FDTD.html",
+    "href": "courses/FDTD.html",
+    "title": "From Data To Discovery",
+    "section": "",
+    "text": "Syllabus (PDF)\nLecture Notes"
+  },
+  {
+    "objectID": "courses/FDTD.html#course-materials",
+    "href": "courses/FDTD.html#course-materials",
+    "title": "From Data To Discovery",
+    "section": "",
+    "text": "Syllabus (PDF)\nLecture Notes"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My primary area is soft matter physics. In particular, I have worked on granular physics, complex fluids, and fluid-structure interactions in the swimming locomotion of C. elegans.\nRecently, I have been exploring problems at the intersection of Math, Physics, and Deep Learning. My primary motivation for research is to use it as a teaching tool to introduce undergrads and high school students to critical thinking, research methods, systematic exploration, and science communication.\n\nProfessionalUndergradHigh School\n\n\n(Put your professional text/images here)\n\n\n(Put your undergrad text/images here)\n\n\n(Put your HS text/images here)"
+  },
+  {
+    "objectID": "research.html#past-and-current-research",
+    "href": "research.html#past-and-current-research",
+    "title": "Research",
+    "section": "",
+    "text": "My primary area is soft matter physics. In particular, I have worked on granular physics, complex fluids, and fluid-structure interactions in the swimming locomotion of C. elegans.\nRecently, I have been exploring problems at the intersection of Math, Physics, and Deep Learning. My primary motivation for research is to use it as a teaching tool to introduce undergrads and high school students to critical thinking, research methods, systematic exploration, and science communication.\n\nProfessionalUndergradHigh School\n\n\n(Put your professional text/images here)\n\n\n(Put your undergrad text/images here)\n\n\n(Put your HS text/images here)"
+  },
+  {
+    "objectID": "talks/nypl-patterns-2017.html",
+    "href": "talks/nypl-patterns-2017.html",
+    "title": "Mathematical Patterns in Nature",
+    "section": "",
+    "text": "In this series of lectures, we will explore how similar mathematical patterns emerge; from galaxies to atoms, in art and in finance. We will first explore how certain numbers like “pi” and “e” keep appearing in diverse fields. [cite_start]We will see how numbers and their sequences give an underlying mathematical structure to different problems.\nNext we will examine the role of randomness in mathematics and our lives. We will see how from this randomness emerges a regular pattern - the famous “Bell Curve”. We will investigate its uses in different situations. We will then explore how mathematics allows us to deconstruct complex situations involving decision-making. How do we come up with a method for fair distribution, be it for property, or corporate merger, or organ transplant.\n[cite_start]In the fourth lecture, we will study an unusual system of arithmetics called “modular arithmetic”, which allows us to use prime numbers to create the ubiquitous security and code systems that are in every bar code, every credit card - the so called “RSA encryption”.\nFinally, we will study the world of graphs and networks: similar patterns and properties emerge in networks of different types, from airline routes to electrical grids. We will also see the use of graph theory to solve minimal cost, minimal time, shortest path, and task-scheduling problems."
+  },
+  {
+    "objectID": "talks/nypl-patterns-2017.html#abstract",
+    "href": "talks/nypl-patterns-2017.html#abstract",
+    "title": "Mathematical Patterns in Nature",
+    "section": "",
+    "text": "In this series of lectures, we will explore how similar mathematical patterns emerge; from galaxies to atoms, in art and in finance. We will first explore how certain numbers like “pi” and “e” keep appearing in diverse fields. [cite_start]We will see how numbers and their sequences give an underlying mathematical structure to different problems.\nNext we will examine the role of randomness in mathematics and our lives. We will see how from this randomness emerges a regular pattern - the famous “Bell Curve”. We will investigate its uses in different situations. We will then explore how mathematics allows us to deconstruct complex situations involving decision-making. How do we come up with a method for fair distribution, be it for property, or corporate merger, or organ transplant.\n[cite_start]In the fourth lecture, we will study an unusual system of arithmetics called “modular arithmetic”, which allows us to use prime numbers to create the ubiquitous security and code systems that are in every bar code, every credit card - the so called “RSA encryption”.\nFinally, we will study the world of graphs and networks: similar patterns and properties emerge in networks of different types, from airline routes to electrical grids. We will also see the use of graph theory to solve minimal cost, minimal time, shortest path, and task-scheduling problems."
+  },
+  {
+    "objectID": "talks/nypl-patterns-2017.html#event-details",
+    "href": "talks/nypl-patterns-2017.html#event-details",
+    "title": "Mathematical Patterns in Nature",
+    "section": "Event Details",
+    "text": "Event Details\nLocation: Jefferson Branch, Manhattan Audience: All ages."
+  }
+]
