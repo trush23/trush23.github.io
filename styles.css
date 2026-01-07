@@ -76,7 +76,7 @@ card-img-top {
 /* --- Adjust the Right Sidebar (Table of Contents) --- */
 
 #quarto-margin-sidebar {
-  padding-left: 90px;   /* Increases the gap. Default is much smaller. */
+  padding-left: 80px;   /* Increases the gap. Default is much smaller. */
 }
 
 /* Optional: If you want to move the "On this page" text specifically */
