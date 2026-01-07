@@ -65,12 +65,12 @@ card-img-top {
 /* Increase the maximum width of the main content area */
 /* The default is usually around 900px-1000px. */
 .quarto-container {
-  max-width: 1250px;   /* Try 1200px or 1400px */
+  max-width: 1200px;   /* Try 1200px or 1400px */
 }
 
 /* Ensure the navbar content also stretches to match */
 .navbar .container-xxl {
-    max-width: 1250px;
+    max-width: 1200px;
 }
 
 /* --- Adjust the Right Sidebar (Table of Contents) --- */
