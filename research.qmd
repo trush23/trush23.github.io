@@ -12,7 +12,7 @@ My primary area is soft matter physics. In particular, I have worked on granular
 ::: {.panel-tabset}
 
 ## Professional
-(Put your professional text/images here)
+My primary area falls broadly under the label of "soft matter physics". In particular, my Ph.D. was on granular physics. I solved teh highly complex and seemingly intractable inverse problem of finding contact forces on particles from photoelastic images. 
 
 ## Undergrad
 (Put your undergrad text/images here)
