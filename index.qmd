@@ -22,8 +22,9 @@ about:
       href: https://github.com/trush23
       target: _blank
 ---
-:::{style=.highlight}
-This site is under construction. Some sections may be blank. Please be patient.
+::: {.callout-warning}
+## Under Construction
+Please note that I am currently populating the site. Some sections may be blank. Please be patient.
 :::
 
 ## Bio
