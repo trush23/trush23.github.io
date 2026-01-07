@@ -1,5 +1,5 @@
 ---
-title: "Research Interests"
+title: "Research"
 page-layout: article
 ---
 
@@ -9,4 +9,15 @@ My primary area is soft matter physics. In particular, I have worked on granular
 
 **Recently, I have been exploring problems at the intersection of Math, Physics, and Deep Learning. My primary motivation for research is to use it as a teaching tool to introduce undergrads and high school students to critical thinking, research methods, systematic exploration, and science communication.**
 
-More on all of this in a bit...
+::: {.panel-tabset}
+
+## Professional
+(Put your professional text/images here)
+
+## Undergrad
+(Put your undergrad text/images here)
+
+## High School
+(Put your HS text/images here)
+
+:::
