@@ -41,7 +41,7 @@ Rheologica Acta, 47, 5, 621-642, (2008).
 
 - T. S. Majmudar and G. H. McKinley, "Nonlinear Dynamics of Coiling in Viscoelastic Jets", arxiv
 
-** Locomotion of *C. elegans* in structured media. 
+**Locomotion of *C. elegans* in structured media.**
 
 - Trushant Majmudar and Eric Keaveny, Mike Shelley, Jun Zhang, “ Experiments and
 Theory of Undulatory Locomotion of Microorganisms in Structured Media”, **Royal Soc. J.
