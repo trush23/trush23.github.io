@@ -5,9 +5,11 @@ page-layout: article
 
 ## Past and Current Research
 
-My primary area is soft matter physics. In particular, I have worked on granular physics, complex fluids, and fluid-structure interactions in the swimming locomotion of *C. elegans*. 
+I have split the "Research" portion into three components. My past research had a different, professional goal. I started off as an experiemntal physicist but I have worked with applied mathematicians and engineers. 
 
-**Recently, I have been exploring problems at the intersection of Math, Physics, and Deep Learning. My primary motivation for research is to use it as a teaching tool to introduce undergrads and high school students to critical thinking, research methods, systematic exploration, and science communication.**
+Currently, I am more focused on using research as a teaching tool for undergrads and  high school students. I create appropriate research projects for motivated and sincere students to give them research experience, improve critical thinking skills, and teach them how to explore and investigate a research problem. 
+
+**Recently, I have been exploring problems at the intersection of Math, Physics, and Deep Learning. These topics are timely and particularly suitable for undergrads and high schoolers for short projects.**
 
 ::: {.panel-tabset}
 
@@ -17,11 +19,51 @@ My primary area falls broadly under the label of "soft matter physics". I have w
 
 My Ph.D. was on granular physics. I solved the highly complex and seemingly intractable inverse problem of finding contact forces on particles from photoelastic images. My Ph.D. work was considered groundbreaking, that resulted in my very first publication in *Nature*. A follow up work on jamming in granular media was published in *Physical Review Letters* as a **Cover Article**. 
 
+Publications: 
 
-## Undergrad
-(Put your undergrad text/images here)
+- T. S. Majmudar and R. P. Behringer, “Contact Force Measurements and Stress Induced
+Anisotropy in Granular Materials”, **Nature**, 435 1079-1082, (2005)
 
-## High School
-(Put your HS text/images here)
+- Majmudar, T. S. and Sperl M. and Luding S. and Behringer R. P. “Jamming transition
+in granular systems”, **Physical Review Letters**, 98, 058001 (2007) (Cover Article).
+
+- G. Lois, J. Zhang, T. S. Majmudar, S. Henkes, B. Chakraborty, C. S. O’Hern, R. P.
+Behringer, “Stress correlations in granular materials: an entropic formulation”, **Physical
+Review E** , 80, 060303(R), (2009).
+
+- J. Zhang, T. S. Majmudar, M. Sperl, and R. P. Behringer, “Jamming for a 2D granular
+material”, **Soft Matter**, 6, 2982-2991, (2010).
+
+**Rheology of Complex Fluids and Jetting Du=ynamics.**
+
+- C. J. Pipe, T. S. Majmudar, and G. H. McKinley “High Shear Rate Viscometry”,
+Rheologica Acta, 47, 5, 621-642, (2008).
+
+- T. S. Majmudar and G. H. McKinley, "Nonlinear Dynamics of Coiling in Viscoelastic Jets", arxiv
+
+** Locomotion of *C. elegans* in structured media. 
+
+- Trushant Majmudar and Eric Keaveny, Mike Shelley, Jun Zhang, “ Experiments and
+Theory of Undulatory Locomotion of Microorganisms in Structured Media”, **Royal Soc. J.
+of Interface** (2012).
+
+## With Undergrads
+
+- Xumo Pan (2025) Tokenizing Intelligence: Valuing AI Prompts and Models as On-chain
+Real-World Assets.
+- Haihong Pang (2024) Study of Image Similarity Measures
+- Sisi Qiu (2024) Data Analysis of International Student Enrollment
+- Aria Han (2023) Spiking Neuronal Networks on complete and random graphs.
+- Zhilin Chen (2023) Perception under Occlusion: Comparison between brain imaging
+  studies and deep learning methods.
+- Ruinan Lu (2015) Graph theory analysis of chromatin genetic networks.
+- Olivia Chu (2014) Imaging and analysis of locomotion by shape deformation in Euglena.
+- Harshita Kajaria (2014) Nonlinear dynamics in financial time series.
+- Monty Liu (2013) Stress analysis of assembly of elliptical particles subjected to
+  concentrated loads.
+- Sunjeong Bonna Kim (2012) Collective swimming of C. elegans.
+
+## With High School Students
+
 
 :::
