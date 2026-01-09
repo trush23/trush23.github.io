@@ -27,9 +27,11 @@ Publications:
 
 - T. S. Majmudar and R. P. Behringer, “Contact Force Measurements and Stress Induced
 Anisotropy in Granular Materials”, **Nature**, 435 1079-1082, (2005)
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/nature03805.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 - Majmudar, T. S. and Sperl M. and Luding S. and Behringer R. P. “Jamming transition
 in granular systems”, **Physical Review Letters**, 98, 058001 (2007) (Cover Article).
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/Trush-Jamming-PRL.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 - G. Lois, J. Zhang, T. S. Majmudar, S. Henkes, B. Chakraborty, C. S. O’Hern, R. P.
 Behringer, “Stress correlations in granular materials: an entropic formulation”, **Physical
@@ -37,6 +39,7 @@ Review E** , 80, 060303(R), (2009).
 
 - J. Zhang, T. S. Majmudar, M. Sperl, and R. P. Behringer, “Jamming for a 2D granular
 material”, **Soft Matter**, 6, 2982-2991, (2010).
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/jamming-2.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 **Rheology of Complex Fluids and Jetting Dynamics.**
 
@@ -44,8 +47,13 @@ material”, **Soft Matter**, 6, 2982-2991, (2010).
 
 - C. J. Pipe, T. S. Majmudar, and G. H. McKinley “High Shear Rate Viscometry”,
 Rheologica Acta, 47, 5, 621-642, (2008).
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/Rheology.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 - T. S. Majmudar and G. H. McKinley, "Nonlinear Dynamics of Coiling in Viscoelastic Jets", arxiv
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/nonliear_jets.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
+
+- Matthew Varagnat, T. S. Majmudar, Will Hartt, G. H. McKinley "The folding motion of axisymmetric jets of micellar solutions", arxiv
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/micellar-folding.pdfs){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 **Locomotion of *C. elegans* in structured media.**
 
