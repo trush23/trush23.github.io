@@ -33,7 +33,8 @@ I am a Clinical Associate Professor of Mathematics at the Courant Institute, New
 
 My research has spanned a number of different fields over the years. My background is in Physics, where I have worked on grvitational waves, pattern formation in nonlinear systems, Bose-Einstein condensation, granular physics, complex fluids, and locomotion of micro-organisms. Recently, I have been interested in the intersection of physics, math, and deep learning. I like to take up small projects, suitable for undergraduates, to investigate deep learning methods and their foundations. 
 
-
+Outside of teaching and research, I am on the scientific advisory board of Synaptrix Labs (https://www.synaptrix-labs.com/). 
+Synaprix Labs is a startup created by a former student Aryan Govil. Their vision is to utilize Brain-Computer Interface (BCI) advances to create a wheelchair for ALS patients that can control and direct motion through real-time EEG analysis. 
 
 ## Education and Certifications
 
