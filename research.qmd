@@ -36,6 +36,7 @@ in granular systems”, **Physical Review Letters**, 98, 058001 (2007) (Cover Ar
 - G. Lois, J. Zhang, T. S. Majmudar, S. Henkes, B. Chakraborty, C. S. O’Hern, R. P.
 Behringer, “Stress correlations in granular materials: an entropic formulation”, **Physical
 Review E** , 80, 060303(R), (2009).
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/entropy-shear.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 - J. Zhang, T. S. Majmudar, M. Sperl, and R. P. Behringer, “Jamming for a 2D granular
 material”, **Soft Matter**, 6, 2982-2991, (2010).
@@ -62,6 +63,7 @@ Rheologica Acta, 47, 5, 621-642, (2008).
 - Trushant Majmudar and Eric Keaveny, Mike Shelley, Jun Zhang, “ Experiments and
 Theory of Undulatory Locomotion of Microorganisms in Structured Media”, **Royal Soc. J.
 of Interface** (2012).
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/celegans.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 ## With Undergrads
 
