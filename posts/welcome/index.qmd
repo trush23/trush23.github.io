@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Trush"
+date: "2026-01-08"
+categories: [news]
+image: "thumbnail.jpg"
+---
+
+This is my first post using Quarto. I will be sharing updates on my research in soft matter physics and my experiments with deep learning here.
+
+![](bz.jpg)
+

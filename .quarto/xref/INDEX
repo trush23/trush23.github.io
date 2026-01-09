@@ -43,5 +43,17 @@
   },
   "blog.qmd": {
     "blog.html": "ad38097a"
+  },
+  "posts/phyai-post-2/index.qmd": {
+    "index.html": "6ba7a962"
+  },
+  "posts/intro/index.qmd": {
+    "index.html": "430b2a0a"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "7d2b8122"
+  },
+  "posts/phyai-post-1/index.qmd": {
+    "index.html": "4c3480fa"
   }
 }

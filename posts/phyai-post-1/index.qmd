@@ -1,0 +1,8 @@
+---
+title: "Ensembles: Part I"
+date: "2025-08-23"  
+categories: [physics, ai]
+canonical-url: https://trushphysicsai.substack.com/p/ensembles-part-i
+---
+
+

@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/welcome/index.html",
+      "/posts/phyai-post-2/index.html",
+      "/posts/phyai-post-1/index.html",
+      "/posts/intro/index.html"
+    ]
+  },
+  {
     "listing": "/outreach.html",
     "items": [
       "/outreach/pioneer.html"

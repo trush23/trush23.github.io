@@ -11,6 +11,9 @@
     ],
     "outreach.qmd": [
       "outreach"
+    ],
+    "blog.qmd": [
+      "posts"
     ]
   }
 }
