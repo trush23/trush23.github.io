@@ -38,6 +38,7 @@ and running Python codes via Jupyter Notebooks.
 
 
 We will then go through several standard machine learning methods:
+
 - Broad Types: Supervised and Unsupervised
 - Linear and Logistic Regression
 - Classification methods: Decision Trees, Random Forests, K-Nearest Neighbors, Support Vector Machines.
