@@ -40,7 +40,7 @@ Review E** , 80, 060303(R), (2009).
 
 - J. Zhang, T. S. Majmudar, M. Sperl, and R. P. Behringer, “Jamming for a 2D granular
 material”, **Soft Matter**, 6, 2982-2991, (2010).
-[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/jamming-2.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
+[<i class="bi bi-file-earmark-pdf"></i> Download Paper](files/jamming-3.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
 
 **Rheology of Complex Fluids and Jetting Dynamics.**
 
