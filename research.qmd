@@ -15,6 +15,8 @@ Currently, I am more focused on using research as a teaching tool for undergrads
 
 ## Professional
 
+![Stress Chains in 2d Granular Systems](images/stress_chains.png){fig-align="center"}
+
 My primary area falls broadly under the label of "soft matter physics". I have worked in three different areas: Granular physics (Ph.D.),  Rheology and jetting dynamics of complex fluids, and fluid-structure interactions in the swimming motion of *C. elegans*. 
 
 My Ph.D. was on granular physics. I solved the highly complex and seemingly intractable inverse problem of finding contact forces on particles from photoelastic images. My Ph.D. work was considered groundbreaking, that resulted in my very first publication in *Nature*. A follow up work on jamming in granular media was published in *Physical Review Letters* as a **Cover Article**. 
