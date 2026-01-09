@@ -49,6 +49,8 @@ Rheologica Acta, 47, 5, 621-642, (2008).
 
 **Locomotion of *C. elegans* in structured media.**
 
+![Locomotion of *C. elegans* in structured medium](images/worms-2.png){fig-align="center"}
+
 - Trushant Majmudar and Eric Keaveny, Mike Shelley, Jun Zhang, “ Experiments and
 Theory of Undulatory Locomotion of Microorganisms in Structured Media”, **Royal Soc. J.
 of Interface** (2012).
