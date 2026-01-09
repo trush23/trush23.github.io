@@ -19,6 +19,8 @@ My primary area falls broadly under the label of "soft matter physics". I have w
 
 My Ph.D. was on granular physics. I solved the highly complex and seemingly intractable inverse problem of finding contact forces on particles from photoelastic images. My Ph.D. work was considered groundbreaking, that resulted in my very first publication in *Nature*. A follow up work on jamming in granular media was published in *Physical Review Letters* as a **Cover Article**. 
 
+[<i class="bi bi-file-earmark-pdf"></i> Download Thesis](files/My_Thesis.pdf){.btn .btn-outline-primary .btn role="button" target="_blank"}
+
 Publications: 
 
 - T. S. Majmudar and R. P. Behringer, “Contact Force Measurements and Stress Induced
