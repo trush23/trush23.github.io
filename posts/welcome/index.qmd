@@ -8,5 +8,5 @@ image: "thumbnail.jpg"
 
 This is my first post using Quarto. I will be sharing updates on my research in soft matter physics and my experiments with deep learning here.
 
-![](bz.jpg)
+![](thumbnail.jpg)
 
