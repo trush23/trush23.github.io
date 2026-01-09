@@ -38,7 +38,9 @@ Review E** , 80, 060303(R), (2009).
 - J. Zhang, T. S. Majmudar, M. Sperl, and R. P. Behringer, “Jamming for a 2D granular
 material”, **Soft Matter**, 6, 2982-2991, (2010).
 
-**Rheology of Complex Fluids and Jetting Du=ynamics.**
+**Rheology of Complex Fluids and Jetting Dynamics.**
+
+![Coiling of a fluid jet](images/coiling.png){fig-align="center"}
 
 - C. J. Pipe, T. S. Majmudar, and G. H. McKinley “High Shear Rate Viscometry”,
 Rheologica Acta, 47, 5, 621-642, (2008).
