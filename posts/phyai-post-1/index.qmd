@@ -4,14 +4,13 @@ date: "2025-08-23"
 categories: [physics, ai]
 canonical-url: https://trushphysicsai.substack.com/p/ensembles-part-i
 ---
-::: {.border}
 
-*Caveats*:
+[*Caveats*:
 
 *In all of the subsequent posts in this publication, on occasion, I will need to use diagrams and figures. Most of the time, I will be relying on hand-drawn doodles instead of fancy diagrams and animations. For the most part, they will be enough for an intuitive understanding of the concepts. Making fancy diagrams and animations is a time-consuming and challenging project in itself and I don’t want to go down that rabbit hole and let it detract me from the main purpose of this publication.*
 
-*These posts are written for learners who are unfamiliar or vaguely familiar with physics concepts used in ML/DL/AI. For that reason, my aim is primarily to impart an intuitive understanding and not technical exactness. On occasion, I will make statements that are generally true but with caveats and conditions. I will progressively refine those statements once a certain foundation has been established.*
-:::
+*These posts are written for learners who are unfamiliar or vaguely familiar with physics concepts used in ML/DL/AI. For that reason, my aim is primarily to impart an intuitive understanding and not technical exactness. On occasion, I will make statements that are generally true but with caveats and conditions. I will progressively refine those statements once a certain foundation has been established.*]{.mark}
+
 
 Typically, any data science or machine learning course or program starts with supervised and unsupervised learning and topics like regression, clustering, and decision trees, to name a few. These methods, while being technical and mathematical, are not that difficult to understand intuitively. Logistic regression is a way to split your data into different classes. Clustering also groups the data into different clusters based on different criteria. Decision Trees (DT) are somewhat flow-charty way of doing what we do all the time— arrive at a decision based on answers to Yes/No type questions for various factors and conditions.
 
