@@ -1,0 +1,18 @@
+---
+title: "Substack Note"
+author: "Trush"
+date: "2026-09-08"
+categories: [news]
+image: "maxwell-self.png"
+---
+
+While writing my latest post on Ensembles, I came across something interesting on the history of ensemble approach that I am sharing here.
+
+As a student, I got introduced to ensembles via Statistical Mechanics in physics and naturally assumed that one of the luminaries of statistical mechanics must have invented it. Recently though, while reading some very old papers (a longtime hobby of mine and for background research for another publication I plan to start), I came across a public lecture by James Clerk Maxwell [1], who credits statisticians processing census data with inventing this method of ensembles in early to mid 1800s. I look at this not as a game of who did it first but a natural consequence of intersection of ideas. The whole of AI is built upon the foundations of Statistics, Mathematics, Computer Science, and Physics.
+
+![Maxwell's Lecture on Molecules](maxwell.jpg){fig-align="center"}
+
+1. “MOLECULES”, James Clerk-Maxwell, The College Courant, Nov. 8, 1873, Vol. 13, No. 17, pp.193-197. 
+
+
+
