@@ -93,7 +93,7 @@ In the meanwhile, a few questions to ponder over:
 
 (@) Can we have more dramatic transformations like the picture below where we block out certain areas? This is what is known as occlusion studies, where only a part of the object is visible. Here, we are obviously changing the distribution of pixel intensities as well, yet we can easily identify a cat. The question is how to make an algorithm identify it.
 
-![Cat vs. Augmented Cat](covered_cat.jpg){fig-align="center"}
+![Cat covered with blobs](covered_cat.jpg){fig-align="center"}
 
 (@) We haven’t talked about text data but common sense tells us that just to create multiple variations of a sentence, and hence an ensemble, we cannot randomly shuffle around letters because then the meaning is destroyed. Can we create an ensemble by adding a bunch of useless words to a sentence and call it “another version”? How about using synonyms for every word whenever possible?
 
